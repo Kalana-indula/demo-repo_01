@@ -1,3 +1,3 @@
 #Demo
 
-Some desicription!
+Some description about the project
