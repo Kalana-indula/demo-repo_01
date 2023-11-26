@@ -8,4 +8,9 @@ public class demo {
     public static void new_method(){
         System.out.println("A new feature here");
     }
+
+    public static void quick_test_method(){
+        System.out.println("Quick test");
+    }
 }
+ 
