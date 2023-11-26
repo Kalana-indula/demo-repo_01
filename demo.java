@@ -4,4 +4,8 @@ public class demo {
         System.out.println("Test code 01");
         System.out.println("test code 02");
     }
+
+    public static void new_method(){
+        System.out.println("A new feature here");
+    }
 }
